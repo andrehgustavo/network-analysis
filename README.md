@@ -23,5 +23,5 @@ Discipline Repository for Network Analysis, an UFRN undergraduate course of Info
 
  In our graph, two airports are connected if there is a flight departing or arriving from the respective airports.
 
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NhggSXruR_S0Otcl3xh8ip-HSqkaYQiH?usp=sharing) [Network_Analysis](.\aeroportos_trab3_und1.ipynb)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NhggSXruR_S0Otcl3xh8ip-HSqkaYQiH?usp=sharing) [Network_Analysis](https://github.com/andrehgustavo/network-analysis/blob/main/aeroportos_trab3_und1.ipynb)
  In this exercise we teaches how to make a network analysis. 
